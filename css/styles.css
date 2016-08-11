@@ -2,3 +2,19 @@
 .container {
   margin-top: 50px;
 }
+
+#allRides {
+  display: none;
+}
+
+#notTall {
+  display: none;
+}
+
+#highlight {
+  display: none;
+}
+
+#underHeight {
+  background-color: yellow;
+}
